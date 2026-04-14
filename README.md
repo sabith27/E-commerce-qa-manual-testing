@@ -75,6 +75,10 @@ Bugs were documented with:
 
 ---
 
+## 📌 Notes
+This project focuses on manual testing documentation including test cases and bug reports. Screenshots are not included, as the main objective is to demonstrate testing knowledge and process.
+
+
 🚀 Conclusion
 
 The testing process helped identify key issues and improve the quality of the application. Automation testing can be implemented in the future for regression testing.
